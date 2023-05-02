@@ -181,12 +181,12 @@ color: #5A5A5A;
 
 .inpt2{
     margin-bottom: 6px;
-    background: url(eye.svg) no-repeat;
+    background: url(Img/eye.svg) no-repeat;
     background-position: 277px;
 }
 
 .inpt2:focus{
-    background: url(eye-slash.svg) no-repeat;
+    background: url(Img/eye-slash.svg) no-repeat;
     background-position: 277px;    
 }
 
